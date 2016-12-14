@@ -1,4 +1,4 @@
-const fetch = require('isomorphic-fetch'),
+const fetch = require('node-fetch'),
     isURL = require('is-url'),
     fork = require('child_process').fork,
     fs = require('fs');
