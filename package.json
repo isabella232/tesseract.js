@@ -1,6 +1,6 @@
 {
-  "name": "tesseract.js",
-  "version": "1.0.10",
+  "name": "@integromat/tesseract.js",
+  "version": "1.0.11",
   "description": "Pure Javascript Multilingual OCR",
   "main": "src/index.js",
   "scripts": {
@@ -35,7 +35,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naptha/tesseract.js.git"
+    "url": "https://github.com/integromat/tesseract.js.git"
   },
   "bugs": {
     "url": "https://github.com/naptha/tesseract.js/issues"
